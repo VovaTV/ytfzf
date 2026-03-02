@@ -1,1 +1,2 @@
-Modified in branch2 - commit 3
+
+Modified in branch1 - commit 3
